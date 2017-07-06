@@ -1,0 +1,14 @@
+orange at 30p 
+40 oranges sold at 30p
+add 50p to oranges 
+grapes at 30p 
+10 grapes sold at 30p
+subs 5p to grapes 
+apple at 10p
+20 apples sold at 10p
+add 10p to apples 
+subs 5p to apples 
+add 5p to grapes
+10 grapes at 30p 
+cherry at 20p
+10 cherry sold at 30p

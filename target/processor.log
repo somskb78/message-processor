@@ -1,0 +1,775 @@
+INFO  [main]: {com.jpmc.processor.model.Product@abe527b8=[0.8518089326924363], com.jpmc.processor.model.Product@abe527b8=[0.9109976990494519], com.jpmc.processor.model.Product@abe527b8=[0.5221931335585992], com.jpmc.processor.model.Product@abe527b8=[0.43417596596994523], com.jpmc.processor.model.Product@abe527b8=[0.23141227163974099], com.jpmc.processor.model.Product@abe527b8=[0.803107428714025], com.jpmc.processor.model.Product@abe527b8=[0.20857251852577607], com.jpmc.processor.model.Product@abe527b8=[0.7904899912829826], com.jpmc.processor.model.Product@abe527b8=[0.6371020267717156], com.jpmc.processor.model.Product@abe527b8=[0.8341760926124513]}
+INFO  [main]: {com.jpmc.processor.model.Product@abe527b8=[0.5221931335585992], com.jpmc.processor.model.Product@abe527b8=[0.8518089326924363], com.jpmc.processor.model.Product@abe527b8=[0.9248905581271827], com.jpmc.processor.model.Product@abe527b8=[0.9109976990494519], com.jpmc.processor.model.Product@abe527b8=[0.43417596596994523], com.jpmc.processor.model.Product@abe527b8=[0.23141227163974099], com.jpmc.processor.model.Product@abe527b8=[0.23151099069796355], com.jpmc.processor.model.Product@abe527b8=[0.5088747352399748], com.jpmc.processor.model.Product@abe527b8=[0.803107428714025], com.jpmc.processor.model.Product@abe527b8=[0.20857251852577607], com.jpmc.processor.model.Product@abe527b8=[0.8684758101492238], com.jpmc.processor.model.Product@abe527b8=[0.7904899912829826], com.jpmc.processor.model.Product@abe527b8=[0.6371020267717156], com.jpmc.processor.model.Product@abe527b8=[0.09553095251585098], com.jpmc.processor.model.Product@abe527b8=[0.8159904828389731], com.jpmc.processor.model.Product@abe527b8=[0.9443935872858065], com.jpmc.processor.model.Product@abe527b8=[0.6905282509662738], com.jpmc.processor.model.Product@abe527b8=[0.8341760926124513], com.jpmc.processor.model.Product@abe527b8=[0.9441704444993944], com.jpmc.processor.model.Product@abe527b8=[0.6070530655955395]}
+INFO  [main]: {com.jpmc.processor.model.Product@abe527b8=[0.5221931335585992], com.jpmc.processor.model.Product@abe527b8=[0.8518089326924363], com.jpmc.processor.model.Product@abe527b8=[0.18814586302637448], com.jpmc.processor.model.Product@abe527b8=[0.9248905581271827], com.jpmc.processor.model.Product@abe527b8=[0.9563586989200117], com.jpmc.processor.model.Product@abe527b8=[0.9783189287240193], com.jpmc.processor.model.Product@abe527b8=[0.17060145263229898], com.jpmc.processor.model.Product@abe527b8=[0.9109976990494519], com.jpmc.processor.model.Product@abe527b8=[0.43417596596994523], com.jpmc.processor.model.Product@abe527b8=[0.23141227163974099], com.jpmc.processor.model.Product@abe527b8=[0.23151099069796355], com.jpmc.processor.model.Product@abe527b8=[0.8619548056423504], com.jpmc.processor.model.Product@abe527b8=[0.5088747352399748], com.jpmc.processor.model.Product@abe527b8=[0.803107428714025], com.jpmc.processor.model.Product@abe527b8=[0.20857251852577607], com.jpmc.processor.model.Product@abe527b8=[0.8684758101492238], com.jpmc.processor.model.Product@abe527b8=[0.7904899912829826], com.jpmc.processor.model.Product@abe527b8=[0.5549699047601567], com.jpmc.processor.model.Product@abe527b8=[0.6371020267717156], com.jpmc.processor.model.Product@abe527b8=[0.7134402026783268], com.jpmc.processor.model.Product@abe527b8=[0.09553095251585098], com.jpmc.processor.model.Product@abe527b8=[0.8159904828389731], com.jpmc.processor.model.Product@abe527b8=[0.9443935872858065], com.jpmc.processor.model.Product@abe527b8=[0.7803384119748795], com.jpmc.processor.model.Product@abe527b8=[0.6905282509662738], com.jpmc.processor.model.Product@abe527b8=[0.8341760926124513], com.jpmc.processor.model.Product@abe527b8=[0.750662228758817], com.jpmc.processor.model.Product@abe527b8=[0.9441704444993944], com.jpmc.processor.model.Product@abe527b8=[0.6070530655955395], com.jpmc.processor.model.Product@abe527b8=[0.8483180279766677]}
+INFO  [main]: {com.jpmc.processor.model.Product@abe527b8=[0.5221931335585992], com.jpmc.processor.model.Product@abe527b8=[0.8518089326924363], com.jpmc.processor.model.Product@abe527b8=[0.45142031159007334], com.jpmc.processor.model.Product@abe527b8=[0.18814586302637448], com.jpmc.processor.model.Product@abe527b8=[0.9248905581271827], com.jpmc.processor.model.Product@abe527b8=[0.9563586989200117], com.jpmc.processor.model.Product@abe527b8=[0.9783189287240193], com.jpmc.processor.model.Product@abe527b8=[0.17060145263229898], com.jpmc.processor.model.Product@abe527b8=[0.9109976990494519], com.jpmc.processor.model.Product@abe527b8=[0.43417596596994523], com.jpmc.processor.model.Product@abe527b8=[0.23141227163974099], com.jpmc.processor.model.Product@abe527b8=[0.23151099069796355], com.jpmc.processor.model.Product@abe527b8=[0.8619548056423504], com.jpmc.processor.model.Product@abe527b8=[0.08148453176657844], com.jpmc.processor.model.Product@abe527b8=[0.5088747352399748], com.jpmc.processor.model.Product@abe527b8=[0.06386091917237147], com.jpmc.processor.model.Product@abe527b8=[0.803107428714025], com.jpmc.processor.model.Product@abe527b8=[0.20857251852577607], com.jpmc.processor.model.Product@abe527b8=[0.8684758101492238], com.jpmc.processor.model.Product@abe527b8=[0.7904899912829826], com.jpmc.processor.model.Product@abe527b8=[0.3947183231989657], com.jpmc.processor.model.Product@abe527b8=[0.5549699047601567], com.jpmc.processor.model.Product@abe527b8=[0.6371020267717156], com.jpmc.processor.model.Product@abe527b8=[0.02381890296360567], com.jpmc.processor.model.Product@abe527b8=[0.9193328485812533], com.jpmc.processor.model.Product@abe527b8=[0.7134402026783268], com.jpmc.processor.model.Product@abe527b8=[0.0074003647062172995], com.jpmc.processor.model.Product@abe527b8=[0.09553095251585098], com.jpmc.processor.model.Product@abe527b8=[0.8159904828389731], com.jpmc.processor.model.Product@abe527b8=[0.9443935872858065], com.jpmc.processor.model.Product@abe527b8=[0.3946635181325552], com.jpmc.processor.model.Product@abe527b8=[0.7803384119748795], com.jpmc.processor.model.Product@abe527b8=[0.6905282509662738], com.jpmc.processor.model.Product@abe527b8=[0.8341760926124513], com.jpmc.processor.model.Product@abe527b8=[0.750662228758817], com.jpmc.processor.model.Product@abe527b8=[0.9418181119830117], com.jpmc.processor.model.Product@abe527b8=[0.9441704444993944], com.jpmc.processor.model.Product@abe527b8=[0.6070530655955395], com.jpmc.processor.model.Product@abe527b8=[0.8483180279766677], com.jpmc.processor.model.Product@abe527b8=[0.41013861008840413]}
+INFO  [main]: {com.jpmc.processor.model.Product@abe527b8=[0.5221931335585992], com.jpmc.processor.model.Product@abe527b8=[0.8518089326924363], com.jpmc.processor.model.Product@abe527b8=[0.45142031159007334], com.jpmc.processor.model.Product@abe527b8=[0.18814586302637448], com.jpmc.processor.model.Product@abe527b8=[0.9248905581271827], com.jpmc.processor.model.Product@abe527b8=[0.9563586989200117], com.jpmc.processor.model.Product@abe527b8=[0.9783189287240193], com.jpmc.processor.model.Product@abe527b8=[0.17060145263229898], com.jpmc.processor.model.Product@abe527b8=[0.9109976990494519], com.jpmc.processor.model.Product@abe527b8=[0.43417596596994523], com.jpmc.processor.model.Product@abe527b8=[0.23141227163974099], com.jpmc.processor.model.Product@abe527b8=[0.23151099069796355], com.jpmc.processor.model.Product@abe527b8=[0.8619548056423504], com.jpmc.processor.model.Product@abe527b8=[0.08148453176657844], com.jpmc.processor.model.Product@abe527b8=[0.5088747352399748], com.jpmc.processor.model.Product@abe527b8=[0.06386091917237147], com.jpmc.processor.model.Product@abe527b8=[0.803107428714025], com.jpmc.processor.model.Product@abe527b8=[0.20857251852577607], com.jpmc.processor.model.Product@abe527b8=[0.8684758101492238], com.jpmc.processor.model.Product@abe527b8=[0.7904899912829826], com.jpmc.processor.model.Product@abe527b8=[0.3947183231989657], com.jpmc.processor.model.Product@abe527b8=[0.9104568808388468], com.jpmc.processor.model.Product@abe527b8=[0.5549699047601567], com.jpmc.processor.model.Product@abe527b8=[0.17858502099409246], com.jpmc.processor.model.Product@abe527b8=[0.20487705252476152], com.jpmc.processor.model.Product@abe527b8=[0.6371020267717156], com.jpmc.processor.model.Product@abe527b8=[0.02381890296360567], com.jpmc.processor.model.Product@abe527b8=[0.04707085072611539], com.jpmc.processor.model.Product@abe527b8=[0.9193328485812533], com.jpmc.processor.model.Product@abe527b8=[0.5317260850982967], com.jpmc.processor.model.Product@abe527b8=[0.7134402026783268], com.jpmc.processor.model.Product@abe527b8=[0.27761005287390317], com.jpmc.processor.model.Product@abe527b8=[0.0074003647062172995], com.jpmc.processor.model.Product@abe527b8=[0.09553095251585098], com.jpmc.processor.model.Product@abe527b8=[0.8159904828389731], com.jpmc.processor.model.Product@abe527b8=[0.9443935872858065], com.jpmc.processor.model.Product@abe527b8=[0.3946635181325552], com.jpmc.processor.model.Product@abe527b8=[0.7803384119748795], com.jpmc.processor.model.Product@abe527b8=[0.6905282509662738], com.jpmc.processor.model.Product@abe527b8=[0.8341760926124513], com.jpmc.processor.model.Product@abe527b8=[0.750662228758817], com.jpmc.processor.model.Product@abe527b8=[0.9418181119830117], com.jpmc.processor.model.Product@abe527b8=[0.9441704444993944], com.jpmc.processor.model.Product@abe527b8=[0.04355836619956588], com.jpmc.processor.model.Product@abe527b8=[0.8671848669800915], com.jpmc.processor.model.Product@abe527b8=[0.6070530655955395], com.jpmc.processor.model.Product@abe527b8=[0.8483180279766677], com.jpmc.processor.model.Product@abe527b8=[0.41013861008840413], com.jpmc.processor.model.Product@abe527b8=[0.360885899685056], com.jpmc.processor.model.Product@abe527b8=[0.32626972830127965]}
+WARN  [main]: Application is pausing , will not accept new messages
+INFO  [main]: {apple=[Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1]}
+INFO  [main]: Following adjustments are made for apple count 1 price 61.70255040156686
+INFO  [main]: Following adjustments are made for apple count 1 price 13.235029624101735
+INFO  [main]: Following adjustments are made for apple count 1 price 13.368433196306317
+INFO  [main]: Following adjustments are made for apple count 1 price 47.58033775535782
+INFO  [main]: Following adjustments are made for apple count 1 price 47.89434858260889
+INFO  [main]: Following adjustments are made for apple count 1 price 21.606244515835392
+INFO  [main]: Following adjustments are made for apple count 1 price 97.28727783815359
+INFO  [main]: Following adjustments are made for apple count 1 price 0.9538445832922848
+INFO  [main]: Following adjustments are made for apple count 1 price 67.98287742623096
+INFO  [main]: Following adjustments are made for apple count 1 price 2.1106910558655545
+INFO  [main]: Following adjustments are made for apple count 1 price 13.235029624101735
+INFO  [main]: Following adjustments are made for apple count 1 price 13.368433196306317
+INFO  [main]: Following adjustments are made for apple count 1 price 47.58033775535782
+INFO  [main]: Following adjustments are made for apple count 1 price 47.89434858260889
+INFO  [main]: Following adjustments are made for apple count 1 price 41.05341255316163
+INFO  [main]: Following adjustments are made for apple count 1 price 11.367549926892018
+INFO  [main]: Following adjustments are made for apple count 1 price 21.606244515835392
+INFO  [main]: Following adjustments are made for apple count 1 price 53.06237587045346
+INFO  [main]: Following adjustments are made for apple count 1 price 82.66182333915674
+INFO  [main]: Following adjustments are made for apple count 1 price 61.70255040156686
+INFO  [main]: Following adjustments are made for apple count 1 price 58.71023488016801
+INFO  [main]: Following adjustments are made for apple count 1 price 68.86739461573801
+INFO  [main]: Following adjustments are made for apple count 1 price 4.282433263551311
+INFO  [main]: Following adjustments are made for apple count 1 price 4.171980561501842
+INFO  [main]: Following adjustments are made for apple count 1 price 6.839543771205292
+INFO  [main]: Following adjustments are made for apple count 1 price 97.28727783815359
+INFO  [main]: Following adjustments are made for apple count 1 price 0.9538445832922848
+INFO  [main]: Following adjustments are made for apple count 1 price 0.8546985039090349
+INFO  [main]: Following adjustments are made for apple count 1 price 67.98287742623096
+INFO  [main]: Following adjustments are made for apple count 1 price 2.1106910558655545
+INFO  [main]: Following adjustments are made for apple count 1 price 47.58033775535782
+INFO  [main]: Following adjustments are made for apple count 1 price 47.89434858260889
+INFO  [main]: Following adjustments are made for apple count 1 price 41.05341255316163
+INFO  [main]: Following adjustments are made for apple count 1 price 53.06237587045346
+INFO  [main]: Following adjustments are made for apple count 1 price 53.29390194371941
+INFO  [main]: Following adjustments are made for apple count 1 price 54.8449829850579
+INFO  [main]: Following adjustments are made for apple count 1 price 61.70255040156686
+INFO  [main]: Following adjustments are made for apple count 1 price 58.71023488016801
+INFO  [main]: Following adjustments are made for apple count 1 price 69.3863648513612
+INFO  [main]: Following adjustments are made for apple count 1 price 68.86739461573801
+INFO  [main]: Following adjustments are made for apple count 1 price 4.282433263551311
+INFO  [main]: Following adjustments are made for apple count 1 price 4.171980561501842
+INFO  [main]: Following adjustments are made for apple count 1 price 71.76457920075141
+INFO  [main]: Following adjustments are made for apple count 1 price 6.839543771205292
+INFO  [main]: Following adjustments are made for apple count 1 price 0.9538445832922848
+INFO  [main]: Following adjustments are made for apple count 1 price 0.8546985039090349
+INFO  [main]: Following adjustments are made for apple count 1 price 0.07572624828614538
+INFO  [main]: Following adjustments are made for apple count 1 price 67.98287742623096
+INFO  [main]: Following adjustments are made for apple count 1 price 2.1106910558655545
+INFO  [main]: Following adjustments are made for apple count 1 price 66.3967274342204
+INFO  [main]: Following adjustments are made for apple count 1 price 13.235029624101735
+INFO  [main]: Following adjustments are made for apple count 1 price 13.368433196306317
+INFO  [main]: Following adjustments are made for apple count 1 price 76.66435809847209
+INFO  [main]: Following adjustments are made for apple count 1 price 11.367549926892018
+INFO  [main]: Following adjustments are made for apple count 1 price 21.606244515835392
+INFO  [main]: Following adjustments are made for apple count 1 price 82.66182333915674
+INFO  [main]: Following adjustments are made for apple count 1 price 30.636886325241097
+INFO  [main]: Following adjustments are made for apple count 1 price 25.547754184173954
+INFO  [main]: Following adjustments are made for apple count 1 price 97.28727783815359
+INFO  [main]: Following adjustments are made for apple count 1 price 99.03276481064853
+INFO  [main]: Following adjustments are made for apple count 1 price 47.58033775535782
+INFO  [main]: Following adjustments are made for apple count 1 price 47.89434858260889
+INFO  [main]: Following adjustments are made for apple count 1 price 41.05341255316163
+INFO  [main]: Following adjustments are made for apple count 1 price 53.06237587045346
+INFO  [main]: Following adjustments are made for apple count 1 price 53.29390194371941
+INFO  [main]: Following adjustments are made for apple count 1 price 54.8449829850579
+INFO  [main]: Following adjustments are made for apple count 1 price 50.46233794511762
+INFO  [main]: Following adjustments are made for apple count 1 price 61.70255040156686
+INFO  [main]: Following adjustments are made for apple count 1 price 60.20431198394921
+INFO  [main]: Following adjustments are made for apple count 1 price 58.71023488016801
+INFO  [main]: Following adjustments are made for apple count 1 price 69.3863648513612
+INFO  [main]: Following adjustments are made for apple count 1 price 5.845329560085677
+INFO  [main]: Following adjustments are made for apple count 1 price 68.86739461573801
+INFO  [main]: Following adjustments are made for apple count 1 price 4.282433263551311
+INFO  [main]: Following adjustments are made for apple count 1 price 4.171980561501842
+INFO  [main]: Following adjustments are made for apple count 1 price 71.76457920075141
+INFO  [main]: Following adjustments are made for apple count 1 price 6.839543771205292
+INFO  [main]: Following adjustments are made for apple count 1 price 0.9538445832922848
+INFO  [main]: Following adjustments are made for apple count 1 price 0.8546985039090349
+INFO  [main]: Following adjustments are made for apple count 1 price 0.07572624828614538
+INFO  [main]: Following adjustments are made for apple count 1 price 67.98287742623096
+INFO  [main]: Following adjustments are made for apple count 1 price 2.1106910558655545
+INFO  [main]: Following adjustments are made for apple count 1 price 66.3967274342204
+INFO  [main]: Following adjustments are made for apple count 1 price 2.876174609235005
+INFO  [main]: Following adjustments are made for apple count 1 price 2.9217609715710524
+INFO  [main]: Following adjustments are made for apple count 1 price 13.235029624101735
+INFO  [main]: Following adjustments are made for apple count 1 price 13.368433196306317
+INFO  [main]: Following adjustments are made for apple count 1 price 76.66435809847209
+INFO  [main]: Following adjustments are made for apple count 1 price 76.47122461738212
+INFO  [main]: Following adjustments are made for apple count 1 price 9.546271320642873
+INFO  [main]: Following adjustments are made for apple count 1 price 11.367549926892018
+INFO  [main]: Following adjustments are made for apple count 1 price 21.606244515835392
+INFO  [main]: Following adjustments are made for apple count 1 price 82.66182333915674
+INFO  [main]: Following adjustments are made for apple count 1 price 29.01742957644854
+INFO  [main]: Following adjustments are made for apple count 1 price 30.636886325241097
+INFO  [main]: Following adjustments are made for apple count 1 price 25.547754184173954
+INFO  [main]: Following adjustments are made for apple count 1 price 39.239363785419336
+INFO  [main]: Following adjustments are made for apple count 1 price 97.28727783815359
+INFO  [main]: Following adjustments are made for apple count 1 price 32.94465568575554
+INFO  [main]: Following adjustments are made for apple count 1 price 99.03276481064853
+INFO  [main]: Following adjustments are made for apple count 1 price 47.58033775535782
+INFO  [main]: Following adjustments are made for apple count 1 price 47.89434858260889
+INFO  [main]: Following adjustments are made for apple count 1 price 46.424085158152
+INFO  [main]: Following adjustments are made for apple count 1 price 41.05341255316163
+INFO  [main]: Following adjustments are made for apple count 1 price 53.06237587045346
+INFO  [main]: Following adjustments are made for apple count 1 price 53.29390194371941
+INFO  [main]: Following adjustments are made for apple count 1 price 54.8449829850579
+INFO  [main]: Following adjustments are made for apple count 1 price 54.42604337439375
+INFO  [main]: Following adjustments are made for apple count 1 price 50.46233794511762
+INFO  [main]: Following adjustments are made for apple count 1 price 50.55722030472967
+INFO  [main]: Following adjustments are made for apple count 1 price 61.70255040156686
+INFO  [main]: Following adjustments are made for apple count 1 price 60.20431198394921
+INFO  [main]: Following adjustments are made for apple count 1 price 63.27030115180238
+INFO  [main]: Following adjustments are made for apple count 1 price 58.71023488016801
+INFO  [main]: Following adjustments are made for apple count 1 price 69.3863648513612
+INFO  [main]: Following adjustments are made for apple count 1 price 68.86739461573801
+INFO  [main]: Following adjustments are made for apple count 1 price 71.76457920075141
+INFO  [main]: Following adjustments are made for apple count 1 price 67.98287742623096
+INFO  [main]: Following adjustments are made for apple count 1 price 66.3967274342204
+INFO  [main]: Following adjustments are made for apple count 1 price 13.235029624101735
+INFO  [main]: Following adjustments are made for apple count 1 price 13.368433196306317
+INFO  [main]: Following adjustments are made for apple count 1 price 9.546271320642873
+INFO  [main]: Following adjustments are made for apple count 1 price 11.367549926892018
+INFO  [main]: Following adjustments are made for apple count 1 price 21.606244515835392
+INFO  [main]: Following adjustments are made for apple count 1 price 29.01742957644854
+INFO  [main]: Following adjustments are made for apple count 1 price 30.636886325241097
+INFO  [main]: Following adjustments are made for apple count 1 price 25.547754184173954
+INFO  [main]: Following adjustments are made for apple count 1 price 25.363252362926445
+INFO  [main]: Following adjustments are made for apple count 1 price 36.5310804565571
+INFO  [main]: Following adjustments are made for apple count 1 price 39.239363785419336
+INFO  [main]: Following adjustments are made for apple count 1 price 32.94465568575554
+INFO  [main]: Following adjustments are made for apple count 1 price 32.15557144391998
+INFO  [main]: Following adjustments are made for apple count 1 price 5.845329560085677
+INFO  [main]: Following adjustments are made for apple count 1 price 4.282433263551311
+INFO  [main]: Following adjustments are made for apple count 1 price 4.171980561501842
+INFO  [main]: Following adjustments are made for apple count 1 price 6.839543771205292
+INFO  [main]: Following adjustments are made for apple count 1 price 0.9538445832922848
+INFO  [main]: Following adjustments are made for apple count 1 price 0.8546985039090349
+INFO  [main]: Following adjustments are made for apple count 1 price 0.07572624828614538
+INFO  [main]: Following adjustments are made for apple count 1 price 2.1106910558655545
+INFO  [main]: Following adjustments are made for apple count 1 price 2.876174609235005
+INFO  [main]: Following adjustments are made for apple count 1 price 2.9217609715710524
+INFO  [main]: Following adjustments are made for apple count 1 price 76.66435809847209
+INFO  [main]: Following adjustments are made for apple count 1 price 76.47122461738212
+INFO  [main]: Following adjustments are made for apple count 1 price 86.54955897201278
+INFO  [main]: Following adjustments are made for apple count 1 price 82.66182333915674
+INFO  [main]: Following adjustments are made for apple count 1 price 93.26703107500197
+INFO  [main]: Following adjustments are made for apple count 1 price 91.78066059061885
+INFO  [main]: Following adjustments are made for apple count 1 price 97.28727783815359
+INFO  [main]: Following adjustments are made for apple count 1 price 99.03276481064853
+WARN  [main]: Application is pausing , will not accept new messages
+INFO  [main]: {apple=[Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1]}
+INFO  [main]: Following adjustments are made for apple count 1 price 60.808761029293926
+INFO  [main]: Following adjustments are made for apple count 1 price 78.16445096437464
+INFO  [main]: Following adjustments are made for apple count 1 price 25.66136612916893
+INFO  [main]: Following adjustments are made for apple count 1 price 41.45759418822544
+INFO  [main]: Following adjustments are made for apple count 1 price 88.07408560976117
+INFO  [main]: Following adjustments are made for apple count 1 price 40.59964016290114
+INFO  [main]: Following adjustments are made for apple count 1 price 5.864173204675094
+INFO  [main]: Following adjustments are made for apple count 1 price 96.62373521530927
+INFO  [main]: Following adjustments are made for apple count 1 price 18.18490058440393
+INFO  [main]: Following adjustments are made for apple count 1 price 34.25177539684967
+INFO  [main]: Following adjustments are made for apple count 1 price 93.34143559018963
+INFO  [main]: Following adjustments are made for apple count 1 price 13.659621824968337
+INFO  [main]: Following adjustments are made for apple count 1 price 92.83805413649807
+INFO  [main]: Following adjustments are made for apple count 1 price 79.46497974115725
+INFO  [main]: Following adjustments are made for apple count 1 price 25.488951782567636
+INFO  [main]: Following adjustments are made for apple count 1 price 41.48376617602519
+INFO  [main]: Following adjustments are made for apple count 1 price 88.82152714220291
+INFO  [main]: Following adjustments are made for apple count 1 price 64.4577068805943
+INFO  [main]: Following adjustments are made for apple count 1 price 67.39342361556517
+INFO  [main]: Following adjustments are made for apple count 1 price 66.12947718242765
+INFO  [main]: Following adjustments are made for apple count 1 price 13.659621824968337
+INFO  [main]: Following adjustments are made for apple count 1 price 76.43045211728348
+INFO  [main]: Following adjustments are made for apple count 1 price 79.46497974115725
+INFO  [main]: Following adjustments are made for apple count 1 price 46.51810599073052
+INFO  [main]: Following adjustments are made for apple count 1 price 78.8357600171338
+INFO  [main]: Following adjustments are made for apple count 1 price 41.48376617602519
+INFO  [main]: Following adjustments are made for apple count 1 price 9.901574302249749
+INFO  [main]: Following adjustments are made for apple count 1 price 72.6317329400565
+INFO  [main]: Following adjustments are made for apple count 1 price 81.32586866945597
+INFO  [main]: Following adjustments are made for apple count 1 price 80.51801974319784
+INFO  [main]: Following adjustments are made for apple count 1 price 186.66710771266787
+INFO  [main]: Following adjustments are made for apple count 1 price 92.83805413649807
+INFO  [main]: Following adjustments are made for apple count 1 price 25.488951782567636
+INFO  [main]: Following adjustments are made for apple count 1 price 88.82152714220291
+INFO  [main]: Following adjustments are made for apple count 1 price 58.45235991643344
+INFO  [main]: Following adjustments are made for apple count 1 price 64.4577068805943
+INFO  [main]: Following adjustments are made for apple count 1 price 32.191475893700485
+INFO  [main]: Following adjustments are made for apple count 1 price 67.39342361556517
+INFO  [main]: Following adjustments are made for apple count 1 price 66.12947718242765
+INFO  [main]: Following adjustments are made for apple count 1 price 45.25495329967871
+INFO  [main]: Following adjustments are made for apple count 1 price 46.51810599073052
+INFO  [main]: Following adjustments are made for apple count 1 price 41.48376617602519
+INFO  [main]: Following adjustments are made for apple count 1 price 81.27137677459642
+INFO  [main]: Following adjustments are made for apple count 1 price 43.11536682592533
+INFO  [main]: Following adjustments are made for apple count 1 price 49.249968343825245
+INFO  [main]: Following adjustments are made for apple count 1 price 58.45235991643344
+INFO  [main]: Following adjustments are made for apple count 1 price 64.4577068805943
+INFO  [main]: Following adjustments are made for apple count 1 price 67.39342361556517
+INFO  [main]: Following adjustments are made for apple count 1 price 132.64806168255507
+INFO  [main]: Following adjustments are made for apple count 1 price 13.659621824968337
+INFO  [main]: Following adjustments are made for apple count 1 price 76.43045211728348
+INFO  [main]: Following adjustments are made for apple count 1 price 79.46497974115725
+INFO  [main]: Following adjustments are made for apple count 1 price 78.8357600171338
+INFO  [main]: Following adjustments are made for apple count 1 price 9.901574302249749
+INFO  [main]: Following adjustments are made for apple count 1 price 72.6317329400565
+INFO  [main]: Following adjustments are made for apple count 1 price 74.29731328780917
+INFO  [main]: Following adjustments are made for apple count 1 price 81.32586866945597
+INFO  [main]: Following adjustments are made for apple count 1 price 80.51801974319784
+INFO  [main]: Following adjustments are made for apple count 1 price 186.66710771266787
+INFO  [main]: Following adjustments are made for apple count 1 price 29.051856719831015
+INFO  [main]: Following adjustments are made for apple count 1 price 92.83805413649807
+INFO  [main]: Following adjustments are made for apple count 1 price 189.16870774301958
+INFO  [main]: Following adjustments are made for apple count 1 price 25.488951782567636
+INFO  [main]: Following adjustments are made for apple count 1 price 88.82152714220291
+INFO  [main]: Following adjustments are made for apple count 1 price 32.191475893700485
+INFO  [main]: Following adjustments are made for apple count 1 price 45.25495329967871
+INFO  [main]: Following adjustments are made for apple count 1 price 46.51810599073052
+INFO  [main]: Following adjustments are made for apple count 1 price 41.48376617602519
+INFO  [main]: Following adjustments are made for apple count 1 price 81.27137677459642
+INFO  [main]: Following adjustments are made for apple count 1 price 43.11536682592533
+INFO  [main]: Following adjustments are made for apple count 1 price 49.249968343825245
+INFO  [main]: Following adjustments are made for apple count 1 price 56.75031937132089
+INFO  [main]: Following adjustments are made for apple count 1 price 58.45235991643344
+INFO  [main]: Following adjustments are made for apple count 1 price 70.21262953284855
+INFO  [main]: Following adjustments are made for apple count 1 price 64.4577068805943
+INFO  [main]: Following adjustments are made for apple count 1 price 67.39342361556517
+INFO  [main]: Following adjustments are made for apple count 1 price 132.64806168255507
+INFO  [main]: Following adjustments are made for apple count 1 price 13.659621824968337
+INFO  [main]: Following adjustments are made for apple count 1 price 153.3595022089998
+INFO  [main]: Following adjustments are made for apple count 1 price 79.46497974115725
+INFO  [main]: Following adjustments are made for apple count 1 price 78.8357600171338
+INFO  [main]: Following adjustments are made for apple count 1 price 9.901574302249749
+INFO  [main]: Following adjustments are made for apple count 1 price 73.2290643743145
+INFO  [main]: Following adjustments are made for apple count 1 price 72.6317329400565
+INFO  [main]: Following adjustments are made for apple count 1 price 74.29731328780917
+INFO  [main]: Following adjustments are made for apple count 1 price 23.99459133961994
+INFO  [main]: Following adjustments are made for apple count 1 price 81.32586866945597
+INFO  [main]: Following adjustments are made for apple count 1 price 80.51801974319784
+INFO  [main]: Following adjustments are made for apple count 1 price 186.66710771266787
+INFO  [main]: Following adjustments are made for apple count 1 price 29.051856719831015
+INFO  [main]: Following adjustments are made for apple count 1 price 92.83805413649807
+INFO  [main]: Following adjustments are made for apple count 1 price 189.16870774301958
+INFO  [main]: Following adjustments are made for apple count 1 price 25.488951782567636
+INFO  [main]: Following adjustments are made for apple count 1 price 89.32188696571902
+INFO  [main]: Following adjustments are made for apple count 1 price 177.47361348149636
+INFO  [main]: Following adjustments are made for apple count 1 price 37.21685890534317
+INFO  [main]: Following adjustments are made for apple count 1 price 33.989049467508195
+INFO  [main]: Following adjustments are made for apple count 1 price 32.191475893700485
+INFO  [main]: Following adjustments are made for apple count 1 price 99.02290583049603
+INFO  [main]: Following adjustments are made for apple count 1 price 45.25495329967871
+INFO  [main]: Following adjustments are made for apple count 1 price 47.65223552393526
+INFO  [main]: Following adjustments are made for apple count 1 price 46.51810599073052
+INFO  [main]: Following adjustments are made for apple count 1 price 41.48376617602519
+INFO  [main]: Following adjustments are made for apple count 1 price 121.59962853763172
+INFO  [main]: Following adjustments are made for apple count 1 price 43.11536682592533
+INFO  [main]: Following adjustments are made for apple count 1 price 49.249968343825245
+INFO  [main]: Following adjustments are made for apple count 1 price 56.75031937132089
+INFO  [main]: Following adjustments are made for apple count 1 price 58.45235991643344
+INFO  [main]: Following adjustments are made for apple count 1 price 70.21262953284855
+INFO  [main]: Following adjustments are made for apple count 1 price 64.4577068805943
+INFO  [main]: Following adjustments are made for apple count 1 price 67.39342361556517
+INFO  [main]: Following adjustments are made for apple count 1 price 132.64806168255507
+INFO  [main]: Following adjustments are made for apple count 1 price 13.659621824968337
+INFO  [main]: Following adjustments are made for apple count 1 price 153.3595022089998
+INFO  [main]: Following adjustments are made for apple count 1 price 79.46497974115725
+INFO  [main]: Following adjustments are made for apple count 1 price 78.8357600171338
+INFO  [main]: Following adjustments are made for apple count 1 price 9.901574302249749
+INFO  [main]: Following adjustments are made for apple count 1 price 146.79383396520336
+INFO  [main]: Following adjustments are made for apple count 1 price 72.6317329400565
+INFO  [main]: Following adjustments are made for apple count 1 price 75.45047776589081
+INFO  [main]: Following adjustments are made for apple count 1 price 149.04064996288304
+INFO  [main]: Following adjustments are made for apple count 1 price 47.67178102127983
+INFO  [main]: Following adjustments are made for apple count 1 price 22.68440351055203
+INFO  [main]: Following adjustments are made for apple count 1 price 81.32586866945597
+INFO  [main]: Following adjustments are made for apple count 1 price 17.04676834602772
+INFO  [main]: Following adjustments are made for apple count 1 price 80.51801974319784
+INFO  [main]: Following adjustments are made for apple count 1 price 186.66710771266787
+INFO  [main]: Following adjustments are made for apple count 1 price 29.051856719831015
+INFO  [main]: Following adjustments are made for apple count 1 price 92.83805413649807
+INFO  [main]: Following adjustments are made for apple count 1 price 283.5067974899469
+INFO  [main]: Following adjustments are made for apple count 1 price 25.488951782567636
+INFO  [main]: Following adjustments are made for apple count 1 price 89.32188696571902
+INFO  [main]: Following adjustments are made for apple count 1 price 177.47361348149636
+INFO  [main]: Following adjustments are made for apple count 1 price 37.21685890534317
+INFO  [main]: Following adjustments are made for apple count 1 price 33.989049467508195
+INFO  [main]: Following adjustments are made for apple count 1 price 32.191475893700485
+INFO  [main]: Following adjustments are made for apple count 1 price 99.02290583049603
+INFO  [main]: Following adjustments are made for apple count 1 price 34.833290444498274
+WARN  [main]: Application is pausing , will not accept new messages
+INFO  [main]: {apple=[Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1]}
+INFO  [main]: Following adjustments are made for apple count 1 price 559.3124178507119
+INFO  [main]: Following adjustments are made for apple count 1 price 1128.7991676295035
+INFO  [main]: Following adjustments are made for apple count 1 price 1750.2345313907374
+INFO  [main]: Following adjustments are made for apple count 1 price 2205.4748095213354
+INFO  [main]: Following adjustments are made for apple count 1 price 2849.1495327423954
+WARN  [main]: Application is pausing , will not accept new messages
+INFO  [main]: {apple=[Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1]}
+INFO  [main]: Following adjustments are made for apple count 0 price 653.4927097579317
+INFO  [main]: Following adjustments are made for apple count 0 price 1225.400937298824
+INFO  [main]: Following adjustments are made for apple count 0 price 1664.1795080228244
+INFO  [main]: Following adjustments are made for apple count 0 price 2173.6655505587732
+INFO  [main]: Following adjustments are made for apple count 0 price 2630.2668568274526
+WARN  [main]: Application is pausing , will not accept new messages
+INFO  [main]: {apple=[Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1]}
+INFO  [main]: Following adjustments are made for apple count 0 price 678.2609401848612
+INFO  [main]: Following adjustments are made for apple count 0 price 1232.4873441387927
+INFO  [main]: Following adjustments are made for apple count 0 price 1803.5102682707336
+INFO  [main]: Following adjustments are made for apple count 0 price 2194.6883513905714
+INFO  [main]: Following adjustments are made for apple count 0 price 2545.5118652435062
+WARN  [main]: Application is pausing , will not accept new messages
+INFO  [main]: {apple=[Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1]}
+INFO  [main]: Following adjustments are made for apple count 10 price 577.3652467135508
+INFO  [main]: Following adjustments are made for apple count 20 price 1217.3360799082263
+INFO  [main]: Following adjustments are made for apple count 30 price 1639.5287963818382
+INFO  [main]: Following adjustments are made for apple count 40 price 2149.9587850060757
+INFO  [main]: Following adjustments are made for apple count 50 price 2568.8303735073328
+WARN  [main]: Application is pausing , will not accept new messages
+INFO  [main]: {apple=[Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1]}
+INFO  [main]: Following adjustments are made for apple count 10 price 394.5603457829013
+INFO  [main]: Following adjustments are made for apple count 10 price 577.8171227723086
+INFO  [main]: Following adjustments are made for apple count 10 price 521.0986819749188
+INFO  [main]: Following adjustments are made for apple count 20 price 963.4295873678788
+INFO  [main]: Following adjustments are made for apple count 30 price 1517.6342566857147
+INFO  [main]: Following adjustments are made for apple count 40 price 1976.6011278467993
+INFO  [main]: Following adjustments are made for apple count 50 price 2504.0255633084803
+INFO  [main]: Following adjustments are made for apple count 5 price 163.67964314673347
+INFO  [main]: Following adjustments are made for grapes count 5 price 401.63165018533954
+INFO  [main]: Following adjustments are made for apple count 10 price 485.89285104843066
+INFO  [main]: Following adjustments are made for grapes count 10 price 703.8983920189651
+INFO  [main]: Following adjustments are made for apple count 15 price 741.7844746289447
+INFO  [main]: Following adjustments are made for grapes count 15 price 882.3576700140349
+INFO  [main]: Following adjustments are made for apple count 20 price 1021.0663847119395
+INFO  [main]: Following adjustments are made for grapes count 20 price 1070.252862843119
+INFO  [main]: Following adjustments are made for apple count 25 price 1273.1479954305657
+INFO  [main]: Following adjustments are made for grapes count 25 price 1340.6663894914723
+INFO  [main]: Following adjustments are made for apple count 5 price 256.16599265626957
+INFO  [main]: Following adjustments are made for grapes count 5 price 416.58776428157984
+INFO  [main]: Following adjustments are made for apple count 10 price 421.93660127705357
+INFO  [main]: Following adjustments are made for grapes count 10 price 668.3310864670866
+INFO  [main]: Following adjustments are made for apple count 15 price 629.5405286540747
+INFO  [main]: Following adjustments are made for grapes count 15 price 756.6655281871035
+INFO  [main]: Following adjustments are made for apple count 20 price 982.9370816455569
+INFO  [main]: Following adjustments are made for grapes count 20 price 1140.1403511842718
+INFO  [main]: Following adjustments are made for apple count 25 price 1357.8828079668024
+INFO  [main]: Following adjustments are made for grapes count 25 price 1417.009516297664
+WARN  [main]: Application is pausing , will not accept new messages
+INFO  [main]: {apple=[Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1], grapes=[Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1]}
+INFO  [main]: Following adjustments are made for apple count 5 price 276.14798058241763
+INFO  [main]: Following adjustments are made for grapes count 5 price 365.9985762387728
+INFO  [main]: Following adjustments are made for apple count 10 price 538.8838205888585
+INFO  [main]: Following adjustments are made for grapes count 10 price 609.055503189312
+INFO  [main]: Following adjustments are made for apple count 15 price 700.7550220861124
+INFO  [main]: Following adjustments are made for grapes count 15 price 738.1874571347672
+INFO  [main]: Following adjustments are made for apple count 20 price 1109.8791414382551
+INFO  [main]: Following adjustments are made for grapes count 20 price 988.2482718289162
+INFO  [main]: Following adjustments are made for apple count 25 price 1263.7845210111836
+INFO  [main]: Following adjustments are made for grapes count 25 price 1109.8416795543997
+WARN  [main]: Application is pausing , will not accept new messages
+INFO  [main]: {apple=[Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1], grapes=[Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1]}
+INFO  [main]: Following adjustments are made for apple count 1 price 151.35430147054515
+INFO  [main]: Following adjustments are made for grapes count 1 price 29.87724651998189
+INFO  [main]: Following adjustments are made for apple count 1 price 147.73506081553217
+INFO  [main]: Following adjustments are made for grapes count 1 price 173.7024301173326
+INFO  [main]: Following adjustments are made for apple count 1 price 166.6313046112514
+INFO  [main]: Following adjustments are made for grapes count 1 price 163.57989699987036
+INFO  [main]: Following adjustments are made for apple count 1 price 87.98117616306997
+INFO  [main]: Following adjustments are made for grapes count 1 price 169.15508836359282
+INFO  [main]: Following adjustments are made for apple count 1 price 181.249186223135
+INFO  [main]: Following adjustments are made for grapes count 1 price 131.63660332498912
+WARN  [main]: Application is pausing , will not accept new messages
+INFO  [main]: {apple=[Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1], grapes=[Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1]}
+INFO  [main]: Following adjustments are made for apple count 1 price 47.189937582498786
+INFO  [main]: Following adjustments are made for grapes count 1 price 0.6187008652269732
+INFO  [main]: Following adjustments are made for apple count 1 price 74.23531423442651
+INFO  [main]: Following adjustments are made for grapes count 1 price 50.426631408374064
+INFO  [main]: Following adjustments are made for apple count 1 price 158.7564317149168
+INFO  [main]: Following adjustments are made for grapes count 1 price 57.21211029810984
+INFO  [main]: Following adjustments are made for apple count 1 price 32.63183628707795
+INFO  [main]: Following adjustments are made for grapes count 1 price 151.45795303955668
+INFO  [main]: Following adjustments are made for apple count 1 price 69.67201517806929
+INFO  [main]: Following adjustments are made for grapes count 1 price 45.905251759566525
+WARN  [main]: Application is pausing , will not accept new messages
+INFO  [main]: {apple=[Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1], grapes=[Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1]}
+INFO  [main]: Following adjustments are made for apple count 1 price 127.63823068349704
+INFO  [main]: Following adjustments are made for grapes count 1 price 62.85296337655617
+INFO  [main]: Following adjustments are made for apple count 1 price 124.99992811031105
+INFO  [main]: Following adjustments are made for grapes count 1 price 72.73321664021432
+INFO  [main]: Following adjustments are made for apple count 1 price 138.8292850493507
+INFO  [main]: Following adjustments are made for grapes count 1 price 122.99397643286387
+INFO  [main]: Following adjustments are made for apple count 1 price 184.17741229015644
+INFO  [main]: Following adjustments are made for grapes count 1 price 160.78088624239783
+INFO  [main]: Following adjustments are made for apple count 1 price 28.230500325593887
+INFO  [main]: Following adjustments are made for grapes count 1 price 110.37072578068539
+WARN  [main]: Application is pausing , will not accept new messages
+INFO  [main]: {apple=[Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1], grapes=[Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1]}
+INFO  [main]: Following adjustments are made for apple count 4 price 348.4576254052282
+INFO  [main]: Following adjustments are made for grapes count 4 price 243.4504364055941
+INFO  [main]: Following adjustments are made for apple count 9 price 672.6873824201583
+INFO  [main]: Following adjustments are made for grapes count 9 price 453.4467739779386
+INFO  [main]: Following adjustments are made for apple count 14 price 925.616165793005
+INFO  [main]: Following adjustments are made for grapes count 14 price 717.565190712811
+INFO  [main]: Following adjustments are made for apple count 19 price 1234.5429096992139
+INFO  [main]: Following adjustments are made for grapes count 19 price 1005.5554858223857
+INFO  [main]: Following adjustments are made for apple count 24 price 1515.4152328473758
+INFO  [main]: Following adjustments are made for grapes count 24 price 1302.951475711879
+WARN  [main]: Application is pausing , will not accept new messages
+INFO  [main]: {apple=[Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1], grapes=[Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1]}
+INFO  [main]: Following adjustments are made for apple count 4 price 232.46149524755623
+INFO  [main]: Following adjustments are made for grapes count 4 price 304.4390324741384
+INFO  [main]: Following adjustments are made for apple count 9 price 531.6934304184115
+INFO  [main]: Following adjustments are made for grapes count 9 price 582.3211127162015
+INFO  [main]: Following adjustments are made for apple count 14 price 677.5102976860492
+INFO  [main]: Following adjustments are made for grapes count 14 price 767.6152277039868
+INFO  [main]: Following adjustments are made for apple count 19 price 911.9974525423507
+INFO  [main]: Following adjustments are made for grapes count 19 price 1060.3589857731297
+INFO  [main]: Following adjustments are made for apple count 24 price 1243.790814429413
+INFO  [main]: Following adjustments are made for grapes count 24 price 1155.799784054838
+WARN  [main]: Application is pausing , will not accept new messages
+INFO  [main]: {apple=[Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1], grapes=[Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1]}
+INFO  [main]: Following adjustments are made for apple count 4 price 194.00473793910413
+INFO  [main]: Following adjustments are made for grapes count 4 price 193.97217297797883
+INFO  [main]: Following adjustments are made for apple count 9 price 441.3595170010956
+INFO  [main]: Following adjustments are made for grapes count 9 price 386.1455280970262
+INFO  [main]: Following adjustments are made for apple count 14 price 760.9875700775272
+INFO  [main]: Following adjustments are made for grapes count 14 price 569.8978807026945
+INFO  [main]: Following adjustments are made for apple count 19 price 956.1746355039039
+INFO  [main]: Following adjustments are made for grapes count 19 price 974.1304539095263
+INFO  [main]: Following adjustments are made for apple count 24 price 1345.1183571460072
+INFO  [main]: Following adjustments are made for grapes count 24 price 1256.097953702223
+WARN  [main]: Application is pausing , will not accept new messages
+INFO  [main]: {apple=[Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1], grapes=[Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1, Add 1]}
+INFO  [main]: Following adjustments are made for apple count 1 price 10.0
+INFO  [main]: Following adjustments are made for apples count 23 price 60.0
+INFO  [main]: Following adjustments are made for banana count 1 price 10.0
+INFO  [main]: Following adjustments are made for apple count 2 price 20.0
+INFO  [main]: Following adjustments are made for cherry count 1 price 10.0
+INFO  [main]: Following adjustments are made for cherries count 20 price 10.0
+INFO  [main]: Following adjustments are made for bananas count 20 price 10.0
+INFO  [main]: Following adjustments are made for apples count 23 price 60.0
+INFO  [main]: Following adjustments are made for apple count 1 price 10.0
+INFO  [main]: Following adjustments are made for apples count 23 price 60.0
+INFO  [main]: Following adjustments are made for apple count 2 price 20.0
+INFO  [main]: Following adjustments are made for apples count 23 price 60.0
+INFO  [main]: Following adjustments are made for banana count 1 price 10.0
+INFO  [main]: Following adjustments are made for bananas count 20 price 10.0
+INFO  [main]: Following adjustments are made for cherries count 20 price 10.0
+INFO  [main]: Following adjustments are made for cherry count 1 price 10.0
+INFO  [main]: Following adjustments are made for grapes count 1.0 price 30.0
+INFO  [main]: Following adjustments are made for apples count 21.0 price 210.0
+INFO  [main]: Following adjustments are made for grapes count 2.0 price 60.0
+INFO  [main]: Following adjustments are made for grapes count 2.0 price 60.0
+INFO  [main]: Following adjustments are made for grapes count 2.0 price 60.0
+INFO  [main]: Following adjustments are made for grapes count 1.0 price 30.0
+INFO  [main]: Following adjustments are made for grapes count 1.0 price 30.0
+INFO  [main]: Following adjustments are made for apples count 21.0 price 420.0
+INFO  [main]: Following adjustments are made for grapes count 1.0 price 30.0
+INFO  [main]: Following adjustments are made for grapes count 11.0 price 275.0
+INFO  [main]: Following adjustments are made for apple count 1.0 price 10.0
+INFO  [main]: Following adjustments are made for grapes count 1.0 price 30.0
+INFO  [main]: Following adjustments are made for grapes count 11.0 price 330.0
+INFO  [main]: Following adjustments are made for grapes count 11.0 price 275.0
+INFO  [main]: Following adjustments are made for grapes count 11.0 price 275.0
+INFO  [main]: Following adjustments are made for apple count 1.0 price 10.0
+INFO  [main]: Following adjustments are made for grapes count 1.0 price 30.0
+INFO  [main]: Following adjustments are made for grapes count 11.0 price 330.0
+INFO  [main]: Following adjustments are made for grapes count 11.0 price 275.0
+INFO  [main]: Following adjustments are made for grapes count 11.0 price 275.0
+INFO  [main]: Following adjustments are made for apple count 1.0 price 10.0
+INFO  [main]: Following adjustments are made for grapes count 11.0 price 275.0
+INFO  [main]: Following adjustments are made for apples count 21.0 price 210.0
+INFO  [main]: Following adjustments are made for grapes count 11.0 price 275.0
+INFO  [main]: Following adjustments are made for apples count 21.0 price 420.0
+INFO  [main]: Following adjustments are made for grapes count 11.0 price 275.0
+INFO  [main]: Following adjustments are made for apples count 21.0 price 315.0
+INFO  [main]: Following adjustments are made for grapes count 11.0 price 330.0
+INFO  [main]: Following adjustments are made for apples count 21.0 price 315.0
+INFO  [main]: Following adjustments are made for grapes count 21.0 price 3930.0
+INFO  [main]: Following adjustments are made for apples count 21.0 price 315.0
+INFO  [main]: Following adjustments are made for grapes count 1.0 price 30.0
+INFO  [main]: Following adjustments are made for grapes count 11.0 price 330.0
+INFO  [main]: Following adjustments are made for grapes count 11.0 price 275.0
+INFO  [main]: Following adjustments are made for grapes count 11.0 price 275.0
+INFO  [main]: Following adjustments are made for apple count 1.0 price 10.0
+INFO  [main]: Following adjustments are made for grapes count 11.0 price 275.0
+INFO  [main]: Following adjustments are made for apples count 21.0 price 210.0
+INFO  [main]: Following adjustments are made for grapes count 11.0 price 275.0
+INFO  [main]: Following adjustments are made for apples count 21.0 price 420.0
+INFO  [main]: Following adjustments are made for grapes count 11.0 price 275.0
+INFO  [main]: Following adjustments are made for apples count 21.0 price 315.0
+INFO  [main]: Following adjustments are made for grapes count 11.0 price 330.0
+INFO  [main]: Following adjustments are made for apples count 21.0 price 315.0
+INFO  [main]: Following adjustments are made for grapes count 21.0 price 3930.0
+INFO  [main]: Following adjustments are made for apples count 21.0 price 315.0
+INFO  [main]: Sale for grapes count 1.0 price 30.0
+INFO  [main]: Sale for grapes count 11.0 price 330.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for apple count 1.0 price 10.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for apples count 21.0 price 210.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for apples count 21.0 price 420.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for grapes count 11.0 price 330.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for grapes count 21.0 price 3930.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for grapes count 1.0 price 30.0
+INFO  [main]: Sale for grapes count 11.0 price 330.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for apple count 1.0 price 10.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for apples count 21.0 price 210.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for apples count 21.0 price 420.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for grapes count 11.0 price 330.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for grapes count 21.0 price 3930.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for grapes count 1.0 price 30.0
+INFO  [main]: Sale for grapes count 11.0 price 330.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for apple count 1.0 price 10.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for apples count 21.0 price 210.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for apples count 21.0 price 420.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for grapes count 11.0 price 330.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for grapes count 21.0 price 3930.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for grapes count 1.0 price 30.0
+INFO  [main]: Sale for grapes count 11.0 price 330.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for apple count 1.0 price 10.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for apples count 21.0 price 210.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for apples count 21.0 price 420.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for grapes count 11.0 price 330.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for grapes count 21.0 price 3930.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for grapes count 1.0 price 30.0
+INFO  [main]: Sale for grapes count 11.0 price 330.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for apple count 1.0 price 10.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for apples count 21.0 price 210.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for apples count 21.0 price 420.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for grapes count 11.0 price 330.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for grapes count 21.0 price 3930.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for orange count 1.0 price 30.0
+INFO  [main]: Sale for oranges count 41.0 price 1230.0
+INFO  [main]: Sale for orange count 1.0 price 30.0
+INFO  [main]: Sale for oranges count 41.0 price 1230.0
+INFO  [main]: Sale for orange count 1.0 price 30.0
+INFO  [main]: Sale for oranges count 41.0 price 1230.0
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for orange count 1.0 price 30.0
+INFO  [main]: Sale for oranges count 41.0 price 1230.0
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 1.0 price 30.0
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 11.0 price 330.0
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for apple count 1.0 price 10.0
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for apples count 21.0 price 210.0
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for apples count 21.0 price 420.0
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 11.0 price 330.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 21.0 price 3930.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for orange count 1.0 price 30.0
+INFO  [main]: Sale for oranges count 41.0 price 1230.0
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 1.0 price 30.0
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 11.0 price 330.0
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for apple count 1.0 price 10.0
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for apples count 21.0 price 210.0
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for apples count 21.0 price 420.0
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 11.0 price 275.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 11.0 price 330.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 21.0 price 3930.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 21.0 price 3930.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 21.0 price 3930.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: {null=[old = 1230.0 new = 0.0, old = 330.0 new = 0.0, old = 210.0 new = 0.0, old = 420.0 new = 0.0, old = 275.0 new = 0.0]}
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 21.0 price 3930.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: {oranges=[old = 1230.0 new = 3280.0], apples=[old = 210.0 new = 420.0, old = 420.0 new = 315.0], grapes=[old = 330.0 new = 275.0, old = 275.0 new = 330.0]}
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 21.0 price 3930.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: [add 50p to oranges, subs 5p to grapes, add 10p to apples, subs 5p to apples, add 5p to grapes]
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 21.0 price 3930.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: [Adjust : add 50p to oranges, Adjust : subs 5p to grapes, Adjust : add 10p to apples, Adjust : subs 5p to apples, Adjust : add 5p to grapes]
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 21.0 price 3930.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for cherry count 1.0 price 20.0
+INFO  [main]: [Adjust : add 50p to oranges, Adjust : subs 5p to grapes, Adjust : add 10p to apples, Adjust : subs 5p to apples, Adjust : add 5p to grapes]
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 21.0 price 3930.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for cherry count 1.0 price 20.0
+INFO  [main]: [Adjust : add 50p to oranges, Adjust : subs 5p to grapes, Adjust : add 10p to apples, Adjust : subs 5p to apples, Adjust : add 5p to grapes]
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 21.0 price 3930.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for cherry count 11.0 price 320.0
+INFO  [main]: [Adjust : add 50p to oranges, Adjust : subs 5p to grapes, Adjust : add 10p to apples, Adjust : subs 5p to apples, Adjust : add 5p to grapes]
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 21.0 price 3930.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for cherry count 11.0 price 320.0
+INFO  [main]: [Adjust : add 50p to oranges, Adjust : subs 5p to grapes, Adjust : add 10p to apples, Adjust : subs 5p to apples, Adjust : add 5p to grapes]
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 21.0 price 3930.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for cherry count 11.0 price 320.0
+INFO  [main]: [Adjust : add 50p to oranges, Adjust : subs 5p to grapes, Adjust : add 10p to apples, Adjust : subs 5p to apples, Adjust : add 5p to grapes]
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 21.0 price 3930.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for cherry count 11.0 price 320.0
+INFO  [main]: [Adjust : add 50p to oranges, Adjust : subs 5p to grapes, Adjust : add 10p to apples, Adjust : subs 5p to apples, Adjust : add 5p to grapes]
+INFO  [main]: orange at 30p
+INFO  [main]: 40 oranges sold at 30p
+INFO  [main]: add 50p to oranges
+INFO  [main]: grapes at 30p
+INFO  [main]: 10 grapes sold at 30p
+INFO  [main]: subs 5p to grapes
+INFO  [main]: apple at 10p
+INFO  [main]: 20 apples sold at 10p
+INFO  [main]: add 10p to apples
+INFO  [main]: subs 5p to apples
+INFO  [main]: add 5p to grapes
+INFO  [main]: 10 grapes at 30p
+INFO  [main]: cherry at 20p
+INFO  [main]: 10 cherry sold at 30p
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 21.0 price 3930.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for cherry count 11.0 price 320.0
+INFO  [main]: [Adjust : add 50p to oranges, Adjust : subs 5p to grapes, Adjust : add 10p to apples, Adjust : subs 5p to apples, Adjust : add 5p to grapes]
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 21.0 price 3930.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for cherry count 11.0 price 320.0
+INFO  [main]: [Adjust : add 50p to oranges, Adjust : subs 5p to grapes, Adjust : add 10p to apples, Adjust : subs 5p to apples, Adjust : add 5p to grapes]
+DEBUG [main]: orange at 30p
+DEBUG [main]: 40 oranges sold at 30p
+DEBUG [main]: add 50p to oranges
+DEBUG [main]: grapes at 30p
+DEBUG [main]: 10 grapes sold at 30p
+DEBUG [main]: subs 5p to grapes
+DEBUG [main]: apple at 10p
+DEBUG [main]: 20 apples sold at 10p
+DEBUG [main]: add 10p to apples
+DEBUG [main]: subs 5p to apples
+DEBUG [main]: add 5p to grapes
+DEBUG [main]: 10 grapes at 30p
+DEBUG [main]: cherry at 20p
+DEBUG [main]: 10 cherry sold at 30p
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 21.0 price 3930.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for cherry count 11.0 price 320.0
+INFO  [main]: [Adjust : add 50p to oranges, Adjust : subs 5p to grapes, Adjust : add 10p to apples, Adjust : subs 5p to apples, Adjust : add 5p to grapes]
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 21.0 price 3930.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for cherry count 11.0 price 320.0
+INFO  [main]: [Adjust : add 50p to oranges, Adjust : subs 5p to grapes, Adjust : add 10p to apples, Adjust : subs 5p to apples, Adjust : add 5p to grapes]
+ERROR [main]: java.io.FileNotFoundException: resources\messages.txt (The system cannot find the path specified)
+INFO  [main]: []
+ERROR [main]: java.io.FileNotFoundException: \resources\messages.txt (The system cannot find the path specified)
+INFO  [main]: []
+ERROR [main]: java.io.FileNotFoundException: ..\resources\messages.txt (The system cannot find the path specified)
+INFO  [main]: []
+ERROR [main]: java.io.FileNotFoundException: ..\..\resources\messages.txt (The system cannot find the path specified)
+INFO  [main]: []
+ERROR [main]: java.io.FileNotFoundException: messages.txt (The system cannot find the file specified)
+INFO  [main]: []
+ERROR [main]: java.io.FileNotFoundException: messages.txt (The system cannot find the file specified)
+INFO  [main]: []
+ERROR [main]: java.io.FileNotFoundException: ..\messages.txt (The system cannot find the file specified)
+INFO  [main]: []
+ERROR [main]: java.io.FileNotFoundException: messages.txt (The system cannot find the file specified)
+INFO  [main]: []
+ERROR [main]: java.io.FileNotFoundException: File 'messages.txt' does not exist
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 21.0 price 3930.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for cherry count 11.0 price 320.0
+INFO  [main]: [Adjust : add 50p to oranges , Adjust : subs 5p to grapes , Adjust : add 10p to apples , Adjust : subs 5p to apples , Adjust : add 5p to grapes]
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 21.0 price 3930.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for cherry count 11.0 price 320.0
+INFO  [main]: [Adjust : add 50p to oranges , Adjust : subs 5p to grapes , Adjust : add 10p to apples , Adjust : subs 5p to apples , Adjust : add 5p to grapes]
+ERROR [main]: java.io.FileNotFoundException: File 'resources\messages.txt' does not exist
+ERROR [main]: java.io.FileNotFoundException: File 'messages.txt' does not exist
+ERROR [main]: java.lang.IllegalArgumentException: URI is not absolute
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 21.0 price 3930.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for cherry count 11.0 price 320.0
+INFO  [main]: [Adjust : add 50p to oranges , Adjust : subs 5p to grapes , Adjust : add 10p to apples , Adjust : subs 5p to apples , Adjust : add 5p to grapes]
+INFO  [main]: Sale for oranges count 41.0 price 3280.0
+INFO  [main]: Sale for grapes count 21.0 price 3930.0
+INFO  [main]: Sale for apples count 21.0 price 315.0
+INFO  [main]: Sale for cherry count 11.0 price 320.0
+INFO  [main]: [Adjust : add 50p to oranges , Adjust : subs 5p to grapes , Adjust : add 10p to apples , Adjust : subs 5p to apples , Adjust : add 5p to grapes]
